@@ -1,0 +1,11 @@
+.img-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 150px 0px 150px;   
+  }
+  .img-header img {
+    max-width: 320px;
+    height: 100%;
+  }
+ 
